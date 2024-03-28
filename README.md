@@ -21,6 +21,14 @@ and then run
 npm start
 ```
 
+This will start the server that automatically creates the required output css in real time
+
+Now to use it simply run Live Viewer on Visual Code (Go Live) from the root folder and navigate to the `uis/` folder
+
+# Production
+
+For production use you can try to use the `npm build` command, the server wont be needing to run in production it's a one time thing to generate the output, you wont need the input file, you wont need the placeholders, you just need the html, font and output.css file
+
 # How this project was created?
 
 ```
