@@ -5,6 +5,12 @@
 
 The be able to use this project you need to run:
 
+Open the terminal and make sure you are on the project root folder.
+
+```
+npm install
+```
+
 ```
 npm install -D tailwindcss
 ```
