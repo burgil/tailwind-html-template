@@ -9,6 +9,12 @@ The be able to use this project you need to run:
 npm install -D tailwindcss
 ```
 
+and then run
+
+```
+npm start
+```
+
 # How this project was created?
 
 ```
