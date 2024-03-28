@@ -3,14 +3,14 @@
 
 # How to use?
 
-The be able to use this project you need to run:
-
 Open the terminal and make sure you are on the project root folder.
+
+Then you need to run:
 
 ```
 npm install
 ```
-
+and
 ```
 npm install -D tailwindcss
 ```
