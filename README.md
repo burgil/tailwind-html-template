@@ -33,7 +33,7 @@ Copy the file `new-file.html` in the `uis/` folder and paste the generated HTML 
 
 # Production
 
-For production use you can try to use the `npm build` command, the server wont be needing to run in production it's a one time thing to generate the output, you wont need the input file, you wont need the placeholders, you just need the `html`, `fonts` and `output.css` file are needed for production.
+For production use you can try to use the `npm build` command, the server wont be needing to run in production it's a one time thing to generate the output, you wont need the input file, you wont need the placeholders, you just need the `html`, `fonts` and `output.css` files.
 
 # How this project was created?
 
