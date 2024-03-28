@@ -29,7 +29,7 @@ Now simply run Live Viewer on Visual Code (Go Live) from the root folder and nav
 
 Copy the file `new-file.html` in the `uis/` folder and paste the generated HTML from v0.dev inside the body tag.
 
-__The project will automatically read the files inside the `uis/` folder and generate the `output.css` based on them.
+* The project will automatically read the files inside the `uis/` folder and generate the `output.css` based on them.
 
 # Production
 
