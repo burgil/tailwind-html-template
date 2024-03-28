@@ -23,11 +23,17 @@ npm start
 
 This will start the server that automatically creates the required output css in real time
 
-Now to use it simply run Live Viewer on Visual Code (Go Live) from the root folder and navigate to the `uis/` folder
+Now simply run Live Viewer on Visual Code (Go Live) from the root folder and navigate to the `uis/` folder
+
+# How to use the generated HTML from v0.dev in this project?
+
+Copy the file `new-file.html` in the `uis/` folder and paste the generated HTML from v0.dev inside the body tag.
+
+__The project will automatically read the files inside the `uis/` folder and generate the `output.css` based on them.
 
 # Production
 
-For production use you can try to use the `npm build` command, the server wont be needing to run in production it's a one time thing to generate the output, you wont need the input file, you wont need the placeholders, you just need the html, font and output.css file
+For production use you can try to use the `npm build` command, the server wont be needing to run in production it's a one time thing to generate the output, you wont need the input file, you wont need the placeholders, you just need the `html`, `fonts` and `output.css` file are needed for production.
 
 # How this project was created?
 
